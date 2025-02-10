@@ -4,16 +4,16 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: #e3e3e3;
+  background: linear-gradient(145deg, #ffffff, #ffffff);
   font-family: 'Arial', sans-serif;
 }
 
 /* Estilização da calculadora */
 .calculator {
-  background: #c1c1c1;
+  background: #e4e4e4;
   padding: 20px;
   border-radius: 30px;
-  box-shadow: inset 8px 8px 20px #e0e0e0, inset -8px -8px 20px #f0f0f0;
+  box-shadow: inset 8px 8px 20px #e0e0e0, inset -8px -8px 20px #ffffff;
   margin: 30px;
   border: 10px solid #d6d6d6;
   box-shadow: 12px 12px 24px #a1a1a1, -12px -12px 24px #ffffff;
